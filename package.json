@@ -26,5 +26,8 @@
   "homepage": "https://github.com/Don-Alvin/NasaProject#readme",
   "dependencies": {
     "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "jest": "^29.4.2"
   }
 }
